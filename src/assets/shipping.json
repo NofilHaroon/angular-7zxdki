@@ -1,12 +1,9 @@
 [
   {
-    "type": "Overnight",
-    "price": 25.99
+    "type": "Within 24 hours",
+    "price": 11.99
   },
-  {
-    "type": "2-Day",
-    "price": 9.99
-  },
+
   {
     "type": "Postal",
     "price": 2.99
