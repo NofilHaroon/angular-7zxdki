@@ -1,18 +1,19 @@
 export const products = [
   {
-    name: "Phone XL",
-    price: 799,
-    description: "A large phone with one of the best screens"
-  },
-  {
-    name: "Phone Mini",
+    name: 'Dell G3 15"',
     price: 699,
-    description: "A great phone with one of the best cameras"
+    description: "Best bang for buck performance, powered by latest intel chips and nvidia graphic cards."
   },
   {
-    name: "Phone Standard",
-    price: 299,
-    description: ""
+    name: 'Dell G5 15"',
+    price: 799,
+    description: "A well balanced device,  powered by latest intel chips and nvidia graphic cards."
+  },
+
+  {
+    name: "Razer Blade 15",
+    price: 2099,
+    description: "Ultimate Performance, On-The-Go. Powered by latest intel chips and nvidia graphic cards."
   }
 ];
 
